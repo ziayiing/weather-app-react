@@ -20,7 +20,7 @@ export default function App() {
           {""} and is {""}
           open sourced on {""}
           <a
-            href="https://github.com/ziayiing/weather-react"
+            href="https://github.com/ziayiing/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
