@@ -7,13 +7,13 @@
 
 }
 
-
 .Weather h1 {
   font-size: 28px;
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 30px;
 }
+
 .Weather ul {
   margin: 0;
   padding: 0;
@@ -52,5 +52,5 @@
 }
 
 .Info {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
